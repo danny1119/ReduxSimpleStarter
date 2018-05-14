@@ -1,0 +1,2 @@
+# ReduxSimpleStarter
+Beginning React Project
